@@ -10,3 +10,4 @@ For more information and examples:
 =end
 
 # enter your Ruby code here ...
+`gollum .`
